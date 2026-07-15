@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saiyad Subhani</h1>
 <h3 align="center">Full Stack Software Developer | Transforming Ideas into Powerful Digital Products</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">[![trophy](https://github-profile-trophy.vercel.app/?username=subhanisaiyad&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanisaiyad" alt="subhanisaiyad" /></a> </p>
 
 - 🔭 I’m currently working on [CampusHub – Smart College Management Platform](https://campushubapp.vercel.app)
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Scalable SaaS Architecture & Cloud Deployment**
 
-- 👨‍💻 All of my projects are available at [saiyadsubhani.netlify.app](saiyadsubhani.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://saiyadsubhani.netlify.app)
 
 - 💬 Ask me about **Software Development, Web Applications, Mobile Applications**
 
