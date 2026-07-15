@@ -1,16 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saiyad Subhani</h1>
+<h3 align="center">Full Stack Software Developer | Transforming Ideas into Powerful Digital Products</h3>
 
-<h3 align="center">
-Full Stack Software Developer | Transforming Ideas Into Powerful Digital Products
-</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subhanisaiyad&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-
----
-
-- 🔭 I’m currently working on **CampusHub – Smart College Management Platform**
+- 🔭 I’m currently working on [CampusHub – Smart College Management Platform](https://campushubapp.vercel.app)
 
 - 🌱 I’m currently learning **Software Architecture, System Design & Advanced Development Practices**
 
@@ -18,81 +9,21 @@ Full Stack Software Developer | Transforming Ideas Into Powerful Digital Product
 
 - 🤝 I’m looking for help with **Scalable SaaS Architecture & Cloud Deployment**
 
-- 👨‍💻 All of my projects are available at:  
-  **https://saiyadsubhani.netlify.app**
+- 👨‍💻 All of my projects are available at [saiyadsubhani.netlify.app](saiyadsubhani.netlify.app)
 
 - 💬 Ask me about **Software Development, Web Applications, Mobile Applications**
 
-- 📫 Reach me at:  
-  **subhanisaiyad4295@gmail.com**
+- 📫 How to reach me **subhanisaiyad4295@gmail.com**
 
-- ⚡ Fun Fact:  
-  **I Enjoy Turning Ideas Into Real-World Software Products**
+- ⚡ Fun fact **I Enjoy Turning Ideas Into Real-World Software Products.**
 
----
-
-## 🌐 Connect With Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/subhani-saiyad-16a30b353/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.instagram.com/saiyad_subhani_17/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+<a href="https://linkedin.com/in/subhani-saiyad-16a30b353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhani-saiyad-16a30b353" height="30" width="40" /></a>
+<a href="https://instagram.com/saiyad_subhani_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saiyad_subhani_17" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-## 🛠 Languages & Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=flutter,firebase,dart,html,css,js,php,mysql,mongodb,git,vscode" />
-
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Subhanisaiyad&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhanisaiyad&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Subhanisaiyad&theme=tokyonight" />
-
-</p>
-
----
-
-## 🚀 Featured Project
-
-### CampusHub
-Smart College Management Platform with:
-
-✅ Attendance Management  
-✅ Student Management  
-✅ Teacher Management  
-✅ Timetable Management  
-✅ Notices & Announcements  
-✅ Role Based Access Control  
-✅ Subscription Management  
-✅ Analytics Dashboard
-
-🔗 Project Website: https://campushubapp.vercel.app
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhanisaiyad&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhanisaiyad&show_icons=true&locale=en&layout=compact" alt="subhanisaiyad" /></p>
