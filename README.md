@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Scalable SaaS Architecture & Cloud Deployment**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://saiyadsubhani.netlify.app)
+- 👨‍💻 All of my projects are available at [saiyadsubhani.netlify.app](saiyadsubhani.netlify.app)
 
 - 💬 Ask me about **Software Development, Web Applications, Mobile Applications**
 
