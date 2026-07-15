@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Software Development, Web Applications, Mobile Applications**
 
-- 📫 How to reach me **subhanisaiyad4295@gmail.com**
+- 📫 How to reach me [subhanisaiyad4295@gmail.com](mailto:subhanisaiyad4295@gmail.com)
 
 - ⚡ Fun fact **I Enjoy Turning Ideas Into Real-World Software Products.**
 
