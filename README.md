@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saiyad Subhani</h1>
-<h3 align="center">Full Stack Software Developer | Transforming Ideas into Powerful Digital Products</h3>
+<h3 align="center">Full Stack Software Developer | Transforming Ideas into Powerful Digital Products </h3>
 
 - 🔭 I’m currently working on [CampusHub – Smart College Management Platform](https://campushubapp.vercel.app)
 
